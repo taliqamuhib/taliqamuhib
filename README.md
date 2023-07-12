@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taliqamuhib
 - 👀 I’m interested in learning and discoveries.
 - 🌱 I’m currently learning and working on vision transformers.
-- 💞️ I’m looking to collaborate on machine learning strategies for medical imagies.
+- 💞️ I’m looking to collaborate on deep learning strategies for medical imagies.
 - 📫 How to reach me?? its very simple!! taliqa.muhib@gmail.com is my email... email me anytime :)
 
 <!---
